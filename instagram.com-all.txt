@@ -1,0 +1,6 @@
+*.instagram.com
+*.cdninstagram.com
+*.igsonar.com
+cdninstagram.com
+igsonar.com
+instagram.com

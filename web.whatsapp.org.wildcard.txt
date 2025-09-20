@@ -1,0 +1,4 @@
+*.cdn.whatsapp.net
+*.snr.whatsapp.net
+*.whatsapp.com
+*.whatsapp.net

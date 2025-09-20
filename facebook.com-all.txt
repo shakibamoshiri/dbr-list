@@ -1,0 +1,11 @@
+*.facebook.com
+facebook.com
+*.facebook.net
+*.fbcdn.net
+*.fbsbx.com
+*.messenger.com
+messenger.com
+*.m.facebook.com
+*.xx.fbcdn.net
+*.xy.fbcdn.net
+*.xz.fbcdn.net
